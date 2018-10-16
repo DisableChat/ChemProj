@@ -1,0 +1,35 @@
+Molecular Compound: H2O
+Total atomic number: 10
+Total atomic weight: 18.0152
+--------------------------------------------------
+
+Molecular Compound: NaClO
+Total atomic number: 36
+Total atomic weight: 74.4421
+--------------------------------------------------
+
+Molecular Compound: NaHCO3
+Total atomic number: 42
+Total atomic weight: 84.0065
+--------------------------------------------------
+
+Molecular Compound: C2H5OH
+Total atomic number: 26
+Total atomic weight: 46.0682
+--------------------------------------------------
+
+Molecular Compound: SiO2
+Total atomic number: 30
+Total atomic weight: 60.0843
+--------------------------------------------------
+
+Molecular Compound: PbS
+Total atomic number: 98
+Total atomic weight: 239.265
+--------------------------------------------------
+
+Molecular Compound: C12H22O11
+Total atomic number: 182
+Total atomic weight: 342.296
+--------------------------------------------------
+
